@@ -24,5 +24,9 @@ fun main () {
     var namaLengkap2 = "Diego"
     namaLengkap2 = "Diego Vitores"
     println(namaLengkap2)
+
+    var bilangan = 10
+    println (bilangan::class.qualifiedName)
+
 }
 
