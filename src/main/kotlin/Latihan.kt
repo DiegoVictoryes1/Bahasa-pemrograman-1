@@ -10,6 +10,7 @@ fun main () {
 
     //petemuan 2
 
+
     var namaLengkap: String = "Diego"
 
 
@@ -20,5 +21,8 @@ fun main () {
     println (alamat)
     println (umur)
 
+    var namaLengkap2 = "Diego"
+    namaLengkap2 = "Diego Vitores"
+    println(namaLengkap2)
 }
 
